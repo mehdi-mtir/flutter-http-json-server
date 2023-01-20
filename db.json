@@ -1,0 +1,14 @@
+{
+  "cases": [
+    {
+      "name": "Mehdi Mtir2",
+      "gender": "male",
+      "age": 39,
+      "address": "Boumhal",
+      "city": "Ben Arous",
+      "country": "Tunisie",
+      "status": "recovered",
+      "id": 1
+    }
+  ]
+}
